@@ -1,0 +1,1 @@
+# MemoSeg-Landslide-Mapping
