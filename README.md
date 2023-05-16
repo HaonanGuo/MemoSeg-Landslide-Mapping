@@ -4,9 +4,10 @@ The model and the training code will be released once it is accepted~ Coming Soo
 
 Dataset
 ----
-[Bijie-landslide](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)  
-[HR-GLDD](https://www.kaggle.com/balraj98/massachusetts-buildings-dataset)  
-[GVLM](https://project.inria.fr/aerialimag/)  
+[Bijie-landslide](https://doi.org/10.1007/s10346-020-01353-2)  
+[HR-GLDD](https://essd.copernicus.org/preprints/essd-2022-350/)
+[GVLM](https://www.sciencedirect.com/science/article/pii/S0924271623000242)  
+[NewZealand](https://www.sciencedirect.com/journal/remote-sensing-of-environment)  
 
 The code
 ----
